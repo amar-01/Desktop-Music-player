@@ -10,47 +10,7 @@ It features a sleek UI, playlist management, album art display, and intuitive co
 
 ---
 
-## 📂 Project Structure
 
-```
-
-music\_player/
-│
-├── main.py                # Main application entry point
-├── README.md              # Project documentation
-├── requirements.txt       # Python dependencies
-│
-├── assets/                # Static assets
-│   ├── icons/              # Button & UI icons
-│   │   ├── play.png
-│   │   ├── pause.png
-│   │   ├── next.png
-│   │   ├── prev.png
-│   │   ├── volume-high.png
-│   │   ├── volume-medium.png
-│   │   ├── volume-low\.png
-│   │   └── volume-muted.png
-│   │
-│   └── images/             # Images and app graphics
-│       ├── default\_cover.png
-│       └── app\_icon.png
-│
-├── src/                    # Application source code
-│   ├── **init**.py
-│   ├── player.py           # Main player logic
-│   ├── ui.py               # UI components and styling
-│   ├── utils.py            # Helper/utility functions
-│   └── metadata.py         # Audio metadata extraction
-│
-├── tests/                  # Unit tests
-│   ├── **init**.py
-│   ├── test\_player.py
-│   └── test\_metadata.py
-│
-└── playlists/              # User playlists
-└── default.m3u         # Example playlist
-
-````
 
 ---
 
@@ -167,8 +127,8 @@ This project is licensed under the **MIT License** — feel free to modify and d
 
 ---
 
-**Author:** Your Name
-📧 Contact: [you@example.com](mailto:you@example.com)
+**Author:** amar
+📧 Contact: [amaranarayana363@gmail.com](mailto:you@example.com)
 
 ```
 
